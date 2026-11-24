@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "yougile": {
+      "type": "http",
+      "url": "https://ru.yougile.com/data/ai/mcp"
+    }
+  }
+}
