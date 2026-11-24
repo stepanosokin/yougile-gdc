@@ -1,0 +1,10 @@
+{
+  "mcp": {
+    "servers": {
+      "yougile": {
+        "type": "remote",
+        "url": "https://ru.yougile.com/data/ai/mcp"
+      }
+    }
+  }
+}
